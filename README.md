@@ -81,6 +81,8 @@ cd Internship-Program-Manager
 
 ## 📩 Contact & Contributions
 🔹 If you’d like to contribute or have questions, feel free to open an **Issue** or a **Pull Request**.
+📩 Email: aneabidevraji@gmail.com
+🔗 LinkedIn: (https://www.linkedin.com/in/aneesh-s-nkl)
 
 
 
