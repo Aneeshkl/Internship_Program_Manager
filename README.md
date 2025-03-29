@@ -1,5 +1,5 @@
 # 👉 Internship Program Manager
-_A Java MVC-based application for managing internship programs efficiently._
+_A Java with Spring MVC-based application for managing internship programs efficiently._
 
 ## 📚 Overview
 The **Internship Program Manager** is a **Java MVC** application designed to manage various aspects of an internship program. It allows administrators to handle batches, trainers, interns, and the Learning & Development (LD) team, ensuring smooth program execution.
